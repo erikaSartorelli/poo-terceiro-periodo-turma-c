@@ -1,3 +1,4 @@
+package PrimeiroBimestre;
 import java.util.Scanner;
 
 public class Calcular_plantinhas{

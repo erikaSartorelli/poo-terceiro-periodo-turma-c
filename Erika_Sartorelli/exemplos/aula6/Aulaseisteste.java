@@ -5,7 +5,7 @@ public class Aulaseisteste {
         Professor profeUm =new Professor();
         Professor melhorProf = new Professor();
 
-        profeUm.nome =" igorBola ";
+        profeUm.nome =" IgorBola ";
         profeUm.materia=" A.I ";
 
         melhorProf.nome =" sandro ";
@@ -13,5 +13,11 @@ public class Aulaseisteste {
 
         profeUm.apresentarse();
         melhorProf.apresentarse();
+
+       Arma vandal = new Arma();
+
+       vandal.nome = "Vandal - valorant";
+       vandal.skin = "saqueadora";
+       vandal.dano = "180";
     }
 }
